@@ -1,0 +1,16 @@
+king_name,date,lat,lon,link_to_source,location_name
+King Alaric,1250-05-01,41.9028,12.4964,https://historicalrecords.example.com/King_Alaric/Rome,plats1
+King Alaric,1250-05-03,45.4408,12.3155,https://historicalrecords.example.com/King_Alaric/Venice,plats2
+King Alaric,1250-05-06,50.8503,4.3517,https://historicalrecords.example.com/King_Alaric/Brussels,plats3
+King Alaric,1250-05-08,40.4168,-3.7038,https://historicalrecords.example.com/King_Alaric/Madrid,plats4
+King Alaric,1250-05-10,55.6761,12.5683,https://historicalrecords.example.com/King_Alaric/Copenhagen,plats5
+King Berengar,1250-05-01,48.2082,16.3738,https://historicalrecords.example.com/King_Berengar/Vienna,plats1
+King Berengar,1250-05-04,41.9028,12.4964,https://historicalrecords.example.com/King_Berengar/Rome,plats2
+King Berengar,1250-05-07,41.3851,2.1734,https://historicalrecords.example.com/King_Berengar/Barcelona,plats3
+King Berengar,1250-05-09,50.8503,4.3517,https://historicalrecords.example.com/King_Berengar/Brussels,plats4
+King Berengar,1250-05-12,40.4168,-3.7038,https://historicalrecords.example.com/King_Berengar/Madrid,plats5
+King Conrad,1250-05-01,51.5074,-0.1278,https://historicalrecords.example.com/King_Conrad/London,plats1
+King Conrad,1250-05-04,41.9028,12.4964,https://historicalrecords.example.com/King_Conrad/Rome,plats2
+King Conrad,1250-05-07,53.3498,-6.2603,https://historicalrecords.example.com/King_Conrad/Dublin,plats3
+King Conrad,1250-05-09,45.4408,12.3155,https://historicalrecords.example.com/King_Conrad/Venice,plats4
+King Conrad,1250-05-12,50.8503,4.3517,https://historicalrecords.example.com/King_Conrad/Brussels,plats5
